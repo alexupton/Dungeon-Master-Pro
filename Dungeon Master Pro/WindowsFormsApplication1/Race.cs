@@ -8,9 +8,5 @@ namespace WindowsFormsApplication1
 {
     class Race
     {
-        string raceName;
-        int sizemod;
-        List<string> raceLangs; //Racial Languages 
-        
     }
 }
