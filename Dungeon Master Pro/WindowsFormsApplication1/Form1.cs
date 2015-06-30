@@ -21,5 +21,13 @@ namespace WindowsFormsApplication1
         {
             
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Ability test = new Ability();
+
+            test.SetScore( Int32.Parse(textBox1.Text));
+            label3.Text = test.modifier.ToString();
+        }
     }
 }

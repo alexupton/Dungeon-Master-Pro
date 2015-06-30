@@ -8,6 +8,7 @@ namespace WindowsFormsApplication1
 {
     class PC
     {
+        //Basic Properties
         string name { get; set; }
         string player { get; set; }
         CharClass cClass { get; set; }
@@ -20,6 +21,11 @@ namespace WindowsFormsApplication1
         int height { get; set; }
         int weight { get; set; }
         string eyeColor { get; set; }
+        string hairColor { get; set; }
+        string skinColor { get; set; }
+
+        //Abilities
+
 
     }
 }
