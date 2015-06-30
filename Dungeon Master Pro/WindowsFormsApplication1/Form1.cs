@@ -29,6 +29,7 @@ namespace WindowsFormsApplication1
         private void button1_Click_2(object sender, EventArgs e)
         {
             CharCreateInstructions instruct = new CharCreateInstructions(this);
+            this.Enabled = false;
             instruct.Show();
         }
     }
