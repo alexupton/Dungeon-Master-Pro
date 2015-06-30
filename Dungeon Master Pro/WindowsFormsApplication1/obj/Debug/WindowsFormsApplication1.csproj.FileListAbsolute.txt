@@ -1,1 +1,9 @@
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
