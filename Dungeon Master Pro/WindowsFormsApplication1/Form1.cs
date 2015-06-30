@@ -31,5 +31,10 @@ namespace WindowsFormsApplication1
             CharCreateInstructions instruct = new CharCreateInstructions(this);
             instruct.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
