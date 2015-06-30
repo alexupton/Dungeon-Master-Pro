@@ -7,3 +7,4 @@ D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\Window
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Skawt\Desktop\D&D\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

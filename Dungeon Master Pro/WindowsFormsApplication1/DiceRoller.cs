@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    class Race
+    class Class1
     {
-        string raceName;
-        int sizemod;
-        List<string> raceLangs; //Racial Languages 
-        
     }
 }
