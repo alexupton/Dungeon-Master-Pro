@@ -7,6 +7,7 @@ D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\Window
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\users\theboss\documents\visual studio 2013\Projects\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+<<<<<<< HEAD
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
@@ -17,3 +18,15 @@ C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplicat
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Drew\Desktop\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+=======
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\GitProjects\Dungeon Master Pro\Dungeon-Master-Pro\Dungeon Master Pro\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CharCreateInstructions.resources
+>>>>>>> origin/master

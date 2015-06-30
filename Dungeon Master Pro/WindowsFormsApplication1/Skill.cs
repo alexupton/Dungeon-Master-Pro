@@ -13,5 +13,8 @@ namespace WindowsFormsApplication1
         int abilityModifier { get; set; }
         int ranks { get; set; }
         int miscModifier { get; set; }
+        bool isUntrained { get; set; }
+        bool isClassSkill { get; set; }
+        bool hasArmChkPen { get; set; }
     }
 }
